@@ -103,6 +103,10 @@ domine
 
 What does this word mean?
 
+.. raw:: html
+
+    <input type="text"/>
+
 To which part of speech does it belong?
 
 .. raw:: html
@@ -119,12 +123,6 @@ This Latin word is the root of the English word "second".  The Latin
 word means "according to".  The English meaning is quite similar.
 
 This word is a preposition.
-
-Look at the ending.  To which declension does it belong?
-
-.. raw:: html
-
-    <input type="text"/>
 
 verbum
 ----------------------------------------------------------------------
