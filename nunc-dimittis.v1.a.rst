@@ -1,5 +1,5 @@
 ======================================================================
-Nunc Dimittis
+Nunc Dimittis (Verse 1, A)
 ======================================================================
 
 This is the Gospel Canticle for Night Prayer.  It comes from the
